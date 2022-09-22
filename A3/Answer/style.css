@@ -1,17 +1,17 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
 body {
-  background-color:yellowgreen;
-  padding:2.5%;
+  background-color:#DDE1D4;
+  padding:15px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  max-width: 750px;
-  width: 100vw;
+  max-width: 650px;
+  width: 100%;
   height: 100vh;
   margin:0 auto;
   display: grid;
   grid-template-columns: repeat(3, 33%);
-  grid-template-rows: 120px 40% 30%;
-  gap: 20px;
+  grid-template-rows: 110px 45% 35%;
+  gap: 15px;
   grid-template-areas: 
   "header header header"
   "bad bad bad-next"
@@ -21,20 +21,20 @@ body {
 header {
   background: black;
   grid-area:header;
-  color:#ffffff;
+  color:#DDE1D4;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  padding:10px;
+  padding:15px;
 }
 
-#bad {
+.bad {
   grid-area: bad;
   display:flex;
   align-items: flex-end;
 }
 
-#bad2 {
+.bad-next{
   grid-area: bad-next;
 }
 
@@ -42,21 +42,21 @@ div {
  background-color:#F14112; 
 }
 
-#religion {
+.religion {
   grid-area: religion;
 }
 
 
-h1 {
-  font-size:12em;
+h2 {
+  font-size:200px;
   font-weight: 600;
 }
 
-#religion div {
-  margin-left: 15px;
+.religion div {
+  margin-left: 10px;
   display: flex;
   flex-direction: column;
   font-size:32px;
-  color:rgb(224, 212, 212);
-  margin-top:25px;
+  color:#DDE1D4;
+  margin-top:20px;
 }
