@@ -1,3 +1,53 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,400;1,700&display=swap');
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-rows: 7vw;
+  grid-auto-rows: 39vh;
+}
+
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5em;
+  grid-column: 1 / -1;
+}
+
+
+article {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+article:nth-child(4n){
+  background-color: oldlace;
+  color: salmon;
+}
+
+article h3 {
+  font-size: 20px;
+}
+
+.heart {
+  background-image: url('https://i.pinimg.com/originals/55/e6/f8/55e6f80e7bb93c2bb7fadf352dcf6217.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.heart:nth-child(3n-3){
+  background-image: url('https://i.pinimg.com/originals/b3/c6/5a/b3c65ae47423cbc876f2eb0555afc35f.jpg');
 }
