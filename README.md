@@ -18,7 +18,7 @@
 <img width="50%" src="https://user-images.githubusercontent.com/107466703/193484704-4fe915ed-b5dd-4303-8807-e45a813d8c65.png"/>
 
 <h5>✔️Fri | Assignment # 05 | Code Challenge</h5>
-<img width="100%" src="https://user-images.githubusercontent.com/107466703/193484719-9bf2b82a-19a9-4fd0-8c24-aa17802750d1.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/107466703/193681970-72ba0840-ca95-4c07-be9b-0629a082ea69.png"/>
 
 <h5>✔️Sat | Assignment # 06 | Quiz</h5>
 <h5>🌴Sun | Break</h5>
