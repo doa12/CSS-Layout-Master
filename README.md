@@ -24,6 +24,7 @@
 <h5>🌴Sun | Break</h5>
 
 <br />
+<hr />
 
 <h3>📅 Week 2</h3>
 <h5>✔️Mon | Assignment # 07 | Code Challenge</h5>
@@ -41,4 +42,5 @@
 <h5>✔️Sun | Assignment # 11 | Code Challenge</h5>
 <img width="100%" src="https://user-images.githubusercontent.com/107466703/193484991-0bbd8f67-123d-4744-8f7e-eee4813be7c6.png"/>
 
+<br />
 <hr/>
