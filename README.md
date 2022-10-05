@@ -1,6 +1,6 @@
 # 🌺[24th] CSS Layout | Challenge Assignment
 
-- https://nomadcoders.co/
+- https://nomadcoders.co/css-layout-challenge
 - 2022.09.19 ~ 2022.10.02
 
 <hr />
