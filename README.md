@@ -39,7 +39,7 @@
 <h5>✔️Fri ~ Sat | Assignment # 10 | Code Challenge</h5>
 <img width="100%" src="https://user-images.githubusercontent.com/107466703/193485162-b621af10-b8ba-4eb9-8dee-e4312e7f53c5.png"/>
 
-<h5>✔️Sun | Assignment # 11 | Code Challenge</h5>
+<h5>✔️Sun | Assignment # 11 | Last Code Challenge</h5>
 <img width="100%" src="https://user-images.githubusercontent.com/107466703/193484991-0bbd8f67-123d-4744-8f7e-eee4813be7c6.png"/>
 
 <br />
